@@ -1,0 +1,15 @@
+/Users/milenamaia/RiderProjects/Teste/red days Giovana /bin/Debug/net5.0/red days Giovana .deps.json
+/Users/milenamaia/RiderProjects/Teste/red days Giovana /bin/Debug/net5.0/red days Giovana .runtimeconfig.json
+/Users/milenamaia/RiderProjects/Teste/red days Giovana /bin/Debug/net5.0/red days Giovana .runtimeconfig.dev.json
+/Users/milenamaia/RiderProjects/Teste/red days Giovana /bin/Debug/net5.0/red days Giovana .dll
+/Users/milenamaia/RiderProjects/Teste/red days Giovana /bin/Debug/net5.0/ref/red days Giovana .dll
+/Users/milenamaia/RiderProjects/Teste/red days Giovana /bin/Debug/net5.0/red days Giovana .pdb
+/Users/milenamaia/RiderProjects/Teste/red days Giovana /obj/Debug/net5.0/red days Giovana .csproj.AssemblyReference.cache
+/Users/milenamaia/RiderProjects/Teste/red days Giovana /obj/Debug/net5.0/red days Giovana .GeneratedMSBuildEditorConfig.editorconfig
+/Users/milenamaia/RiderProjects/Teste/red days Giovana /obj/Debug/net5.0/red days Giovana .AssemblyInfoInputs.cache
+/Users/milenamaia/RiderProjects/Teste/red days Giovana /obj/Debug/net5.0/red days Giovana .AssemblyInfo.cs
+/Users/milenamaia/RiderProjects/Teste/red days Giovana /obj/Debug/net5.0/red days Giovana .csproj.CoreCompileInputs.cache
+/Users/milenamaia/RiderProjects/Teste/red days Giovana /obj/Debug/net5.0/red days Giovana .dll
+/Users/milenamaia/RiderProjects/Teste/red days Giovana /obj/Debug/net5.0/ref/red days Giovana .dll
+/Users/milenamaia/RiderProjects/Teste/red days Giovana /obj/Debug/net5.0/red days Giovana .pdb
+/Users/milenamaia/RiderProjects/Teste/red days Giovana /obj/Debug/net5.0/red days Giovana .genruntimeconfig.cache

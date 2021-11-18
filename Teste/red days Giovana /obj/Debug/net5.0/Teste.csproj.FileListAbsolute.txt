@@ -1,0 +1,15 @@
+/Users/milenamaia/RiderProjects/Teste/Teste/bin/Debug/net5.0/Teste.deps.json
+/Users/milenamaia/RiderProjects/Teste/Teste/bin/Debug/net5.0/Teste.runtimeconfig.json
+/Users/milenamaia/RiderProjects/Teste/Teste/bin/Debug/net5.0/Teste.runtimeconfig.dev.json
+/Users/milenamaia/RiderProjects/Teste/Teste/bin/Debug/net5.0/Teste.dll
+/Users/milenamaia/RiderProjects/Teste/Teste/bin/Debug/net5.0/ref/Teste.dll
+/Users/milenamaia/RiderProjects/Teste/Teste/bin/Debug/net5.0/Teste.pdb
+/Users/milenamaia/RiderProjects/Teste/Teste/obj/Debug/net5.0/Teste.csproj.AssemblyReference.cache
+/Users/milenamaia/RiderProjects/Teste/Teste/obj/Debug/net5.0/Teste.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milenamaia/RiderProjects/Teste/Teste/obj/Debug/net5.0/Teste.AssemblyInfoInputs.cache
+/Users/milenamaia/RiderProjects/Teste/Teste/obj/Debug/net5.0/Teste.AssemblyInfo.cs
+/Users/milenamaia/RiderProjects/Teste/Teste/obj/Debug/net5.0/Teste.csproj.CoreCompileInputs.cache
+/Users/milenamaia/RiderProjects/Teste/Teste/obj/Debug/net5.0/Teste.dll
+/Users/milenamaia/RiderProjects/Teste/Teste/obj/Debug/net5.0/ref/Teste.dll
+/Users/milenamaia/RiderProjects/Teste/Teste/obj/Debug/net5.0/Teste.pdb
+/Users/milenamaia/RiderProjects/Teste/Teste/obj/Debug/net5.0/Teste.genruntimeconfig.cache
